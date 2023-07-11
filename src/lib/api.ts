@@ -2,7 +2,7 @@ export const getPolls = () => {
   return [{
     id: 1,
     question: 'What is your favorite color?',
-    postedAt: 1689037810,
+    postedAt: 1689037810000,
     options: [
       'Red',
       'Green',
@@ -18,7 +18,7 @@ export const getPolls = () => {
   {
     id: 2,
     question: 'What is your favorite animal?',
-    postedAt: 1689027810,
+    postedAt: 1689027810000,
     options: [
       'Dog',
       'Cat',
