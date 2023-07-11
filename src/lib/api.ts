@@ -12,8 +12,8 @@ export const getPolls = () => {
     author: {
       id: 1,
       profileImage: 'https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/11/12/18/8/5fce1cb6-47bd-4e6e-af93-ce5fab563fca.jpg',
-      name: 'John Doe',
-      handle: 'johndoe'
+      name: '짱구리',
+      handle: 'shinzzang'
     }
   },
   {
@@ -29,8 +29,8 @@ export const getPolls = () => {
     author: {
       id: 1,
       profileImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3LX-fHAFL6TcH26htCMUmnvGOl5uYKNuzA&usqp=CAU',
-      name: 'John Doe',
-      handle: 'johndoe'
+      name: '도라이도라이',
+      handle: 'doradora'
     }
   },
   ]

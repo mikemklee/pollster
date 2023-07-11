@@ -11,7 +11,7 @@
 	});
 </script>
 
-<section class="max-w-xl mx-auto mt-10">
+<section class="max-w-lg mx-auto mt-10">
 	<h1 class="text-3xl font-semibold mb-6">Pollster</h1>
 	<div>
 		{#each polls as poll (poll.id)}
