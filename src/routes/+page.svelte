@@ -11,9 +11,11 @@
 	});
 </script>
 
-<h1>Pollster</h1>
-<div>
-	{#each polls as poll (poll.id)}
-		<PollCard {poll} />
-	{/each}
-</div>
+<section class="max-w-xl mx-auto mt-10">
+	<h1 class="text-3xl font-bold underline">Pollster</h1>
+	<div>
+		{#each polls as poll (poll.id)}
+			<PollCard {poll} />
+		{/each}
+	</div>
+</section>
